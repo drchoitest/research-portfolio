@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 200" width="360" height="200">
+  <rect width="360" height="200" fill="#ffffff"/>
+  <line x1="20" y1="170" x2="340" y2="170" stroke="#888" stroke-width="1"/>
+  <rect x="30" y="130" width="34" height="40" rx="4" fill="#2f5d50" opacity="0.55"/><rect x="80" y="107" width="34" height="63" rx="4" fill="#2f5d50" opacity="0.62"/><rect x="130" y="84" width="34" height="86" rx="4" fill="#2f5d50" opacity="0.69"/><rect x="180" y="61" width="34" height="109" rx="4" fill="#2f5d50" opacity="0.76"/><rect x="230" y="38" width="34" height="132" rx="4" fill="#2f5d50" opacity="0.83"/><rect x="280" y="125" width="34" height="45" rx="4" fill="#2f5d50" opacity="0.90"/>
+  <text x="20" y="30" font-family="sans-serif" font-size="16" fill="#333">소아 조기 경보 모델</text>
+</svg>
